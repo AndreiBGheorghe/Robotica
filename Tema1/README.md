@@ -5,12 +5,12 @@
 ## Componentele utilizate
 
 ## Imagini cu montajul fizic:
-![IMG1](image.png)
-![IMG2](image-1.png)
-![IMG3](image-2.png)
+![IMG1](img1.png)
+![IMG2](img2.png)
+![IMG3](img3.png)
 
 ## Schema electrică:
-![IMG4](Capture.PNG)
+![IMG4](img4.PNG)
 
 ## Video cu funcționalitatea montajului fizic:
 [Link video](https://youtu.be/XKGqLv5ohrE?si=sBJzTCmdPMsX9j7X)
