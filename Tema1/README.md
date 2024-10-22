@@ -3,7 +3,7 @@
 ## Descrierea task-ului
 
 ## Componentele utilizate
-* 4x LED-uri albastre
+* 4x LED-uri albastre\n*
 Afiseaza nivelul de încărcare, fiecare reprezentând 25%.
 * 1x LED RGB
 Afiseaza starea stației, verde - liberă, roșu - ocupată.
