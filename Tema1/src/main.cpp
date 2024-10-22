@@ -1,5 +1,6 @@
 #include <Arduino.h>
 
+
 // Definirea pinilor pentru LED-uri si butoane
 #define BUTTONSTART 3 // Buton - start
 #define BUTTONSTOP 2  // Buton - stop
