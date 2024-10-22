@@ -3,6 +3,11 @@
 ## Descrierea task-ului
 
 ## Componentele utilizate
+*4x LED-uri pentru nivel de încărcare
+1 LED RGB pentru stare
+2 butoane (start/stop)
+8 rezistoare
+Breadboard și cabluri de legătură.
 
 ## Imagini cu montajul fizic:
 ![IMG1](imagini/img1.png)
