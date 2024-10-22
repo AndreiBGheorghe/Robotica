@@ -3,9 +3,9 @@
 ## Descrierea task-ului
 
 ## Componentele utilizate
-* 4x LED-uri albastre - afișează nivelul de încărcare, fiecare reprezentând 25%.
-* 1x LED RGB - afișeaza starea stației, verde - liberă, roșu - ocupată.
-* 2x Butoane - au ca scop pornirea sau oprirea stației de încărcare.
+* 4x LED-uri albastre - afișează nivelul de încărcare, fiecare reprezentând 25%. (25%, 50%, 75%, 100%)
+* 1x LED RGB - afișeaza starea stației, dacă LED-ul este verde înseamnă că stația este liberă, iar pentru roșu, ocupată.
+* 2x Butoane - au ca scop pornirea sau oprirea forșată a stației de încărcare.
 * 7x Rezistoare 220Ω - sunt folosite la LED-uri.
 * 2x Rezistoare 1KΩ - sunt folosite la butoane.
 * 1x Breadboard - pe acesta este făcut întreg montajul fizic.
