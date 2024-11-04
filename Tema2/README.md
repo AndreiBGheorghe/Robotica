@@ -1,4 +1,4 @@
-# Tema 1: TypeRacer Game
+# Tema 2: TypeRacer Game
 
 ## Descrierea task-ului
 
