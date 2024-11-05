@@ -12,9 +12,12 @@
 * 10x Cabluri de legătură - sunt folosite la conectarea elementelor montajului.
 
 ## Imagini cu montajul fizic:
-
+![IMG1](imagini/img1.PNG)
+![IMG2](imagini/img2.PNG)
+![IMG3](imagini/img3.PNG)
 
 ## Schema electrică:
 ![IMG4](imagini/img4.PNG)
 
 ## Video cu funcționalitatea montajului fizic:
+[Link video](https://youtu.be/oxtoXBxYIbg)
