@@ -1,7 +1,7 @@
 # Tema 3: Quick Time
 
 ## Descrierea task-ului
-
+a
 
 ## Componentele utilizate
 * 1x LCD - afișează numele și scorul jucătorilor
