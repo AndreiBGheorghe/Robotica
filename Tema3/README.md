@@ -16,5 +16,5 @@ a
 * 2x Arduino Uno
 
 ## Imagini cu montajul fizic:
-![IMG1](imagini/img1.PNG)
-![IMG2](imagini/img2.PNG)
+![IMG1](imagini/img1.png)
+![IMG2](imagini/img2.png)
